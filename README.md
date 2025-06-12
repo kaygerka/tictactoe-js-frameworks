@@ -1,4 +1,4 @@
-# Iic-Tac-Toe using Javascript Frameworks
+# Tic-Tac-Toe using Javascript Frameworks
 
 # Utilizing ...
 - Components: Usage, Nesting, Props, Mounting, Destroying
